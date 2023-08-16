@@ -7,5 +7,5 @@ Other languages: [🇩🇪](./README.de.md) | [🇪🇸](./README.es.md)| [🇫�
 This project was set up to help winegrowers implement the EU labelling regulation. Here you can find additional resources to get started.
 
 ## Templates
-We provide a list of templates for the bulk import [🇪here](./bulk-import-templates/en): 
+We provide a list of templates for the bulk import [here](bulk-upload-templates/en): 
 
