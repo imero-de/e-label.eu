@@ -1,4 +1,4 @@
-# [e-label.io](https://es.e-label.io)
+# ![e-label.io icon](https://e-label.io/assets/images/favicons/e-label/favicon-32x32.png) [e-label.io](https://es.e-label.io)
 
 La forma más rápida y sencilla de obtener la etiqueta electrónica (e-label) de la UE para vinos. Cree ahora su código QR para la etiqueta electrónica en pocos minutos y sin necesidad de conocimientos previos y cumpla con la normativa de la UE para el etiquetado de vinos.
 
