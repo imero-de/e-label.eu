@@ -1,4 +1,4 @@
-# [e-label.io](https://e-label.io)
+# [e-label.io](https://fr.e-label.io)
 Le moyen le plus rapide et le plus simple d'obtenir le label électronique de l'UE pour les vins. Créez votre code QR pour le label électronique en quelques minutes et sans connaissances préalables et conformez-vous au règlement de l'UE sur l'étiquetage des vins.
 
 ## À propos de
