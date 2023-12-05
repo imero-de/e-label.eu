@@ -1,5 +1,2 @@
-﻿Numéro de contrôle;ID Vin;Nom de vin;Vintage;Quantité [ml];Région;Alcohol [%];Sucre résiduel [g/l];Acidité [g/l];Mentions Légales;ingrédient 1;ingrédient 2;ingrédient 3;ingrédient 4;ingrédient 5;ingrédient 6
-12;12;Exemple de vin;2023;750;Munich;12,3;12,0;11,0;"IMERO Holding GmbH
-Bruggspergerstraße 88a
-81545 München
-Deutschland";Raisins;Sulfites;;;;
+﻿Numéro de contrôle;ID Vin;Nom de vin;Vintage;Quantité [ml];Région;Alcohol [%];Sucre résiduel [g/l];Acidité [g/l];ingrédient 1;ingrédient 2;ingrédient 3;ingrédient 4;ingrédient 5;ingrédient 6
+12;12;Exemple de vin;2023;750;Munich;12,3;12,0;11,0;Raisins;Sulfites;;;;

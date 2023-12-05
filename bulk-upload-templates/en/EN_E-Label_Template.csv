@@ -1,5 +1,2 @@
-﻿Inspection number;Wine ID;Wine Name;Vintage;Quantity [ml];Region;Alcohol [%];Residual sugar [g/l];Acidity [g/l];Imprint;Ingredient 1;Ingredient 2;Ingredient 3;Ingredient 4;Ingredient 5;Ingredient 6
-12;12;Example wine;2023;750;Munich;12,3;4,0;5,0;"IMERO Holding GmbH
-Bruggspergerstraße 88a
-81545 München
-Deutschland";Grapes;Sulfites;;;;
+﻿Inspection number;Wine ID;Wine Name;Vintage;Quantity [ml];Region;Alcohol [%];Residual sugar [g/l];Acidity [g/l];Ingredient 1;Ingredient 2;Ingredient 3;Ingredient 4;Ingredient 5;Ingredient 6
+12;12;Example wine;2023;750;Munich;12,3;4,0;5,0;Grapes;Sulfites;;;;

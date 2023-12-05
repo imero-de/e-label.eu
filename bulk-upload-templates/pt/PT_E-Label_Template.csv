@@ -1,5 +1,2 @@
-﻿Número do ensaio;ID do vinho;Nome do Vinho;Ano de colheita;Quantidade [ml];Região;Álcool [%];Açúcar residual [g/l];Acidez [g/l];Impressão;Ingrediente 1;Ingrediente 2;Ingrediente 3;Ingrediente 4;Ingrediente 5;Ingrediente 6
-12;12;Exemplo de vinho;2023;750;Munique;12,3;12,0;11,0;"IMERO Holding GmbH
-Bruggspergerstraße 88a
-81545 München
-Deutschland";Uvas;Sulfitos;;;;
+﻿Número do ensaio;ID do vinho;Nome do Vinho;Ano de colheita;Quantidade [ml];Região;Álcool [%];Açúcar residual [g/l];Acidez [g/l];Ingrediente 1;Ingrediente 2;Ingrediente 3;Ingrediente 4;Ingrediente 5;Ingrediente 6
+12;12;Exemplo de vinho;2023;750;Munique;12,3;12,0;11,0;Uvas;Sulfitos;;;;
