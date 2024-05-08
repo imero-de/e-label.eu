@@ -1,4 +1,4 @@
-# ![e-label.io icon](https://e-label.io/assets/images/favicons/e-label/favicon-32x32.png) [e-label.io](https://e-label.io)
+# ![e-label.eu icon](https://e-label.eu/assets/images/favicons/e-label/favicon-32x32.png) [e-label.eu](https://e-label.eu)
 
 The fastest and easiest way to the EU e-label for wines. Create your QR code for the e-label now in just a few minutes and without any prior knowledge and comply with the EU regulation for wine labelling.
 
