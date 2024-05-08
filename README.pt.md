@@ -1,4 +1,4 @@
-# ![e-label.io icon](https://e-label.io/assets/images/favicons/e-label/favicon-32x32.png) [e-label.io](https://pt.e-label.io)
+# ![e-label.eu icon](https://e-label.eu/assets/images/favicons/e-label/favicon-32x32.png) [e-label.eu](https://pt.e-label.eu)
 
 A forma mais rápida e fácil de obter o rótulo eletrónico (e-label) da UE para vinhos. Crie agora o seu código QR para o rótulo eletrónico em apenas alguns minutos e sem qualquer conhecimento prévio e cumpra o regulamento da UE relativo à rotulagem dos vinhos.
 
