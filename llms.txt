@@ -1,0 +1,32 @@
+# e-label.eu – EU-Compliant Digital Wine Labeling
+
+- [EU E-Label for Wines](https://e-label.eu/): Create EU E-Labels for wines quickly and easily online.
+
+## Overview
+
+e-label.eu is a digital platform developed by IMERO to help wineries comply with the European Union's Regulation (EU) 2021/2117, which mandates the inclusion of nutritional information and ingredient lists on wine labels. The platform enables the creation of electronic labels (e-labels) accessible via QR codes, allowing consumers to view detailed product information online. This approach ensures compliance without overcrowding physical labels.
+
+## Key Features
+
+- User-Friendly Interface: Create e-labels in minutes without prior technical knowledge.
+- Bulk Label Generation: Upload lab reports in PDF, Excel, or CSV formats to generate multiple e-labels efficiently.
+- Multi-Language Support: Automatically translates e-label content into all official EU languages, facilitating broader accessibility.
+- Regulatory Compliance: Ensures adherence to EU wine labeling regulations, including Italian recycling guidelines.
+- Flexible QR Code Export: Download QR codes in various formats (SVG, PNG, JPEG, WEBP, PDF) for easy printing and sharing.
+- Long-Term Accessibility: Each e-label remains online for at least 10 years, even if the service is canceled.
+- API: Manage your e-label via an documented api
+
+## Compliance with EU Regulations
+
+Starting December 8, 2023, wines produced for sale in the EU must display nutritional values and ingredient lists. e-label.eu facilitates compliance by allowing wineries to present this information digitally through QR codes on their bottles. This method meets the requirements set forth in Regulation (EU) 2021/2117.
+
+## Additional Resources
+
+- [E-Label Masterguide](https://e-label.eu/masterguide): A comprehensive guide detailing the new EU wine labeling regulations and how to comply using e-labels.
+- [FAQs](https://e-label.eu/faqs): Answers to common questions regarding e-label creation, regulatory requirements, and platform usage.
+- [Webinars](https://e-label.eu/webinar): Educational sessions with legal experts discussing the implications of the new regulations and demonstrating the e-label creation process.
+- [Postman Collection](https://studio.imero.io/assets/data/download/IMERO%20API.postman_collection.json): Contains examples how to use the api
+
+## About IMERO
+
+IMERO is a technology company based in Halle (Saale), Germany, specializing in digital labeling solutions. Their no-code platform empowers brands to create interactive, compliant labels without programming skills, bridging the gap between physical products and digital information.
